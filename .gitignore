@@ -1,0 +1,14 @@
+# Dependency directories
+
+node_modules/
+
+# TypeScript cache
+
+*.tsbuildinfo
+
+# Next.js build output
+.next
+out
+
+# Finder (MacOS) folder config
+.DS_Store
